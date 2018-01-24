@@ -21,3 +21,17 @@ git clone
 git fetch
 
 git merge
+
+git checkout
+
+git remote
+
+git remote add
+
+git diff
+
+
+Terminal Commands
+
+cd ~ - change directory into home
+cd [file name] - change directory into chosen file
