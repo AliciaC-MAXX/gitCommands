@@ -6,6 +6,8 @@ git status - shows file changes, if a file isn't tracked or needs to be added to
 
 git commit
 
+git commit -a -m
+
 git pull
 
 git push
@@ -15,3 +17,7 @@ git branch
 git branch [file name]
 
 git clone
+
+git fetch
+
+git merge
