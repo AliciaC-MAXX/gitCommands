@@ -1,0 +1,17 @@
+Git Commands Cheatsheet
+
+git log - shows list of commits for that branch
+
+git status - shows file changes, if a file isn't tracked or needs to be added to the staging area
+
+git commit
+
+git pull
+
+git push
+
+git branch
+
+git branch [file name]
+
+git clone
